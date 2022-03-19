@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/</loc>
+  <priority>1.0</priority>
+  <lastmod>2022-03-19T20:46:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-03-19T20:46:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/CV_jp.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-03-19T20:46:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/Research_MWmetal_jp.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-03-19T20:46:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/Research_RSGatmosphere_jp.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-03-19T20:46:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/Software_SVCN_jp.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-03-19T20:46:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://d-taniguchi-astro.github.io/homepage/index_jp.html</loc>
+  <priority>0.7</priority>
+</url>
+
+</urlset>
