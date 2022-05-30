@@ -1,0 +1,84 @@
+
+
+/* On border lines */
+table{
+	border-collapse: collapse;
+}
+th,td{
+	border: solid 1px;
+}
+
+/* On the Himawari-Betelgeuse class */
+table.Himawari-Betelgeuse{
+}
+table.Himawari-Betelgeuse th{
+	white-space: nowrap;
+}
+table.Himawari-Betelgeuse td{
+	text-align: right;
+}
+
+/* On nowrap */
+td.nowrap{
+	white-space: nowrap;
+}
+th.nowrap{
+	white-space: nowrap;
+}
+
+/* On text-align */
+td.text-left{
+	text-align: left;
+}
+td.text-center{
+	text-align: center;
+}
+td.text-right{
+	text-align: right;
+}
+th.text-left{
+	text-align: left;
+}
+th.text-center{
+	text-align: center;
+}
+th.text-right{
+	text-align: right;
+}
+
+/* On bold order */
+td.bold-border-top{
+	border-top: solid 2px;
+}
+td.bold-border-bottom{
+	border-bottom: solid 2px;
+}
+td.bold-border-left{
+	border-left: solid 2px;
+}
+td.bold-border-right{
+	border-right: solid 2px;
+}
+th.bold-border-top{
+	border-top: solid 2px;
+}
+th.bold-border-bottom{
+	border-bottom: solid 2px;
+}
+th.bold-border-left{
+	border-left: solid 2px;
+}
+th.bold-border-right{
+	border-right: solid 2px;
+}
+
+
+
+
+
+
+
+
+
+
+

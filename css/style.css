@@ -22,7 +22,7 @@ body {
 h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form,select,textarea,input {margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
 ul {list-style-type: none;}
 img {border: none;max-width: 100%;height: auto;vertical-align: middle;}
-table {border-collapse:collapse;font-size: 100%;border-spacing: 0;}
+table {border-collapse:collapse;font-size: 100%;border-spacing: 0;border: solid 1px;}
 video {max-width: 100%;}
 iframe {width: 100%;}
 
