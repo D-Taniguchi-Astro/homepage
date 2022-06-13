@@ -1,6 +1,6 @@
 # Light curves of Betelgeuse in 0.45-13.5 micron measured with images taken by 
 # the Himawari-8 meteorological satellite (converted to AB magnitudes). 
-# Last updated on 2022-06-07T06:45:46
+# Last updated on 2022-06-13T04:23:46
 # 
 # Original paper: 
 #   Daisuke Taniguchi, Kazuya Yamazaki, and Shinsuke Uno
@@ -1144,3 +1144,9 @@
 2022-06-02 16:10, 0.9156,-0.1739
 2022-06-04 16:00, 1.1678,-0.2560
 2022-06-06 15:10, 1.1547,-0.0827
+2022-06-07 15:10, 1.2611,-0.2791
+2022-06-09 15:00, 0.9287,-0.0770
+2022-06-09 15:40, 1.2369,-0.1859
+2022-06-11 14:50, 0.9537, 0.0263
+2022-06-12 14:50, 1.3169,-0.0892
+2022-06-12 15:30, 0.9613,-0.2069
